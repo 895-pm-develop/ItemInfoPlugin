@@ -1,0 +1,10 @@
+name: ItemInfo
+main: pl_895\ItemInfo\ItemInfo
+author: 895
+api: 4.0.0
+version: B1
+
+permissions:
+  ItemInfo.op:
+    default: op
+    description: Permissions for ItemInfo commands.
